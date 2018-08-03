@@ -2,7 +2,7 @@
 
 import HTMLTestRunner
 import unittest
-from lession2.test_unit_case import *
+from lesson2.test_unit_case import *
 
 def gen_report():
     suite = unittest.TestSuite()

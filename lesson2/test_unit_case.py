@@ -1,6 +1,6 @@
 import unittest
 from unittest import skip
-from lession2.mathfunc import *
+from lesson2.mathfunc import *
 
 class TestMathFunc(unittest.TestCase):
 
