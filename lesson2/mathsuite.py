@@ -1,7 +1,8 @@
 # coding=utf-8
 
-import HTMLTestRunner
+from lesson2 import HTMLTestRunner
 import unittest
+
 from lesson2.test_unit_case import *
 
 def gen_report():
