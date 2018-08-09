@@ -9,8 +9,13 @@
 
 #### 使用接口方式实现登陆功能
 
-----
-练习
+#### 练习
+
+使用python + webdriver抓一些数据
+
+偿试获取下新书页面中的书名和图片地址等原素，并做文本存储。
+
+https://book.douban.com/latest?icn=index-latestbook-all
 
 ### Lesson 2
 
@@ -37,6 +42,10 @@
 
 看代码
 
+#### 练习
+
+结合自己业务线的内容，使用unittest框架，编写一个testcase类及若干test方法。
+
 
 ### Lesson 3
 
@@ -60,18 +69,11 @@
 
 [Requests: HTTP for Humans](http://docs.python-requests.org/en/master/)
 
+#### 练习
+
+使用requests请求接口并解析，结合unittest框架，编写接口测试用例+测试套件，最后生成测试报告(html格式)
 
 ### Lesson 4
-
-#### 抽取公共方法
-
-- 
-
-#### 当用例过多时，如何安排测试套件
-
-#### 自动化生成测试用例
-
-### Lesson 5
 
 #### 定时任务
 
